@@ -1,0 +1,8 @@
+rule,accepted_value,implementation,evidence_basis,status
+R01_FMCG,0..100,"Exact, unrounded published R01 allParticipants.score",R01 publication; not rescored,FROZEN
+R02_NEW_BRAND,0..100,"Exact, unrounded published R02 allParticipants.score",R02 publication; not rescored,FROZEN
+missing_component,N/A,Exclude agency if either published score absent; do not impute zero,18 union -> 12 intersection,FROZEN
+composite_weight,60/40,"0.60*R01 + 0.40*R02, exact Decimal",Historical Workspace formula disclosed as post-availability,FROZEN
+ranking_ties,exact,"Sort by unrounded Decimal; same exact value shares rank, then skip","Round display only, keep unrounded public trace",FROZEN
+scope,narrow,FMCG branding + new packaged-goods brand launch,Not best branding agencies for all industries,FROZEN
+source_independence,not_assumed,Do not treat two scores as independent votes or repeated links as extra evidence,Underlying criteria and cases partly overlap,FROZEN

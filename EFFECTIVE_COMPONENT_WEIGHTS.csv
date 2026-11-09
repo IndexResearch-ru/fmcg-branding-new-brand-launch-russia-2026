@@ -1,0 +1,7 @@
+dimension,r01_criteria,r02_criteria,r01_effective_pp,r02_effective_pp,combined_effective_pp,double_count_note
+research,R01.R,R02.R,15,8,23,Same category-research evidence may be shared; do not assert independence
+strategy,R01.S,R02.S,15,10,25,Same positioning work may appear in both source studies
+packaging_and_SKU,R01.P + R01.L,R02.P,25.2,10,35.2,Most concentrated source dimension; do not describe as 3 independent studies
+category_breadth,R01.B,,4.8,0,4.8,Only R01 measures breadth
+naming,,R02.N,0,6,6,Only R02 new-naming metric
+launch_materials,,R02.L,0,6,6,Only R02 launch materials

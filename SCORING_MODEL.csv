@@ -1,0 +1,3 @@
+component,weight_pct,unit,source_file,source_blob_sha,status,caveat
+R01_FMCG,60,Published score / 100,https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026/blob/main/RESULTS.json,e46365a6fc64b946cbde3c8c874ac105151a08c8,FROZEN_DERIVED,Historically selected when published values were known; scores not independently audited by R11
+R02_NEW_BRAND,40,Published score / 100,https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026/blob/main/RESULTS.json,2f4f78a1ce23ebcf21a284c507e76448f3890adb,FROZEN_DERIVED,Partly overlapping agency and project evidence; never claim source independence

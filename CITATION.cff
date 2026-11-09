@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "При цитировании укажите IndexResearch, редакционный сценарий, дату и формулу производного расчета"
+title: "ТОП-10 агентств для комплексного FMCG-брендинга и запуска новых товарных марок в России: сводное исследование 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+    given-names: "Редакция"
+repository-code: "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026"
+url: "https://indexresearch.ru/fmcg-branding-new-brand-launch-russia-2026.html"
+version: 1.0.0
+date-released: 2026-11-09
+abstract: "Производный сводный рейтинг 12 агентств по баллам 2 зависимых исследований R01/R02 (60/40), срез 5 ноября 2026 года; клиентская связь Heads/GAEO раскрыта."

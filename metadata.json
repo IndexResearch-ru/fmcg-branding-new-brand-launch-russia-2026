@@ -1,0 +1,34 @@
+{
+  "title": "ТОП-10 агентств для комплексного FMCG-брендинга и запуска новых товарных марок в России: сводное исследование 2026",
+  "familyId": "heads_best_branding_agencies_2026",
+  "researchSlugProposed": "fmcg-branding-new-brand-launch-russia-2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "dataCutoff": "2026-11-05",
+  "step5Status": "PUBLISH_DECISION_PRIVATE_READY_FOR_STEP6",
+  "published": true,
+  "methodologyFrozenAt": "2026-11-09T09:44:40+03:00",
+  "mariaApproval": "RELAYED_BY_ALEXEY_2026_11_09",
+  "sourceBlobs": {
+    "R01_RESULTS": "e46365a6fc64b946cbde3c8c874ac105151a08c8",
+    "R02_RESULTS": "2f4f78a1ce23ebcf21a284c507e76448f3890adb"
+  },
+  "candidateCount": 12,
+  "rankedCount": 10,
+  "evidenceStatus": "Derived from R01/R02; underlying projects not independently re-audited",
+  "sourceCount": 15,
+  "duplicatedOriginalUrlCount": 6,
+  "R11Scenario": "FMCG branding and new brand launch; not general best branding agencies",
+  "researchSlug": "fmcg-branding-new-brand-launch-russia-2026",
+  "status": "PUBLISHED_CANONICAL_RU_GITHUB_STEP6",
+  "publishedDate": "2026-11-09",
+  "siteUrl": "https://indexresearch.ru/fmcg-branding-new-brand-launch-russia-2026.html",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026",
+  "publicationScope": "RU_GITHUB_MAIN_AND_RU_SITE_STAGED_EN_CN_PENDING",
+  "languageRepos": {
+    "ru": "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026",
+    "en": "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-en",
+    "cn": "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-cn"
+  },
+  "releaseApproval": "PUBLISH_RELAYED_MARIA_VIA_ALEXEY_2026_11_09"
+}

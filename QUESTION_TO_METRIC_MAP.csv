@@ -1,0 +1,10 @@
+question_id,question,source_metrics,derived_structure,meaning_or_risk,status
+buyer_question,Which provider has documented FMCG strategic and execution experience and new-product-brand launch capability?,R01_FMCG + R02_NEW_BRAND,0.6 R01 + 0.4 R02,"Both source scenarios relevant; derived mean, not independently re-scored",FROZEN_NARROW_SCENARIO
+consumer_research,How well is audience/category research demonstrated?,"R01.R, R02.R",effective 23%,Same/similar category research may appear in both source studies,OVERLAP_DISCLOSED
+brand_strategy,Are positioning and brand platform demonstrated?,"R01.S, R02.S",effective 25%,Similar source-project steps can appear twice,OVERLAP_DISCLOSED
+packaging_and_SKU,Are packaging designs and multi-SKU systems documented?,"R01.P, R01.L, R02.P",effective 35.2%,Largest combined dimension; same packaging outcome can underpin both scores,HIGH_OVERLAP_DISCLOSED
+new_naming,Is a new brand name specifically evidenced?,R02.N,effective 6%,"Independent dimension within R02, not necessarily a new independent project",SOURCE_ONLY_NO_NEW_SCORE
+launch_materials,Are separate launch communication outputs documented?,R02.L,effective 6%,No new evidence supplied by R11,SOURCE_ONLY_NO_NEW_SCORE
+FMCG_category_breadth,Is sector breadth documented?,R01.B,effective 4.8%,Not measured in R02,SOURCE_ONLY_NO_NEW_SCORE
+missing_component,What if provider is listed in only one source study?,R01 or R02 missing,EXCLUDE: do not replace missing with 0,Six agencies affected; exclusion concerns coverage only,EXCLUSION_FROZEN_DISCLOSED
+ranking_ties,How should near-equal scores be displayed?,composite precise,Sort by exact decimal then round for display,84.4 and 84.2 both render as 84; do not label as tied,FROZEN_SORT_BEFORE_ROUNDING
