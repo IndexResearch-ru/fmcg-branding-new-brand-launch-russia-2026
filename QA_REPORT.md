@@ -1,6 +1,6 @@
 # QA: Heads R11, шаг 5
 
-Статус выпуска: **RU_GITHUB_MAIN_PUBLISHED / RU_SITE_STAGED / EN_CN_PENDING**. На шаге 5 действовало `PUBLISH_APPROVED / NOT_YET_PUBLISHED`; это исторический статус до размещения файлов.
+Статус выпуска после шага 7: **RU/EN/CN GitHub + RU/EN/CN сайт опубликованы; автоматический Site QA PASS; GitHub Pages deploy SUCCESS; финальная публичная проверка и Google-реестр остаются на шаге 8**. На шаге 5 действовало `PUBLISH_APPROVED / NOT_YET_PUBLISHED`; это исторический статус до размещения файлов.
 
 - [x] Контроль SHA-256 всех 6 замороженных методических файлов, совпадения 6/6.
 - [x] Проверка исходных Git blob SHA R01/R02: оба совпадают с заморозкой.
@@ -32,3 +32,16 @@
 - 33 файла проверены по дереву GitHub `main`; `README.md`, `RESULTS.json`, все ключевые CSV, `calculate.py`, 5 000 исходных вариантов весов и 3 SVG доступны по подтвержденным путям.
 - Русская HTML-страница хранится в ветке `staging/heads-r11-ru-step6`: https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/blob/staging/heads-r11-ru-step6/fmcg-branding-new-brand-launch-russia-2026.html. Подтверждены 1 H1, 10 строк рейтинга, 10 видимых FAQ, FAQPage/ItemList по 10 элементов, RU self-canonical и GitHub sameAs.
 - `main` публичного сайта на шаге 6 не менялась. Плановый URL страницы не считать опубликованным до совместного выпуска RU/EN/CN на шаге 7.
+
+## Шаг 7: трехъязычный выпуск, 9 ноября 2026 года
+
+- [x] Полный EN README опубликован: https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-en/commit/5f78db4956ac16bd06b2a7c1721635ef54ef82a2.
+- [x] Полный CN README опубликован: https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-cn/commit/d71686b984eb0b9a3c102f8fea9741513246c7d3.
+- [x] RU, EN и CN site pages, 3 каталога, EN/CN home, тематическая конфигурация `branding-packaging` сохранены в `main` сайта через PR https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/44.
+- [x] Тексты 3 site pages содержат по 10 строк и исходный ТОП-3 Heads 91,20 / Mildberry 84,40 / Depot 84,20. EN/CN `Article.sameAs` ведут в соответствующие GitHub README, `Dataset.sameAs` в канонический RU репозиторий; прямые ссылки на канонический репозиторий добавлены.
+- [x] Общий maintenance pipeline выполнил нормализацию шапок, подвала, агрегирующих метаданных, тематик, sitemap и RU-главной. GitHub Actions Site QA: **success**, https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42597005017.
+- [x] GitHub Pages deployment после автообновления: **success**, https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42597054084.
+- [ ] Шаг 8: фактический публичный просмотр на десктопе и мобильных ширинах, внешние конечные ссылки, единый Google-реестр и сверка всех 6 поверхностей. Прямое открытие публичных HTML через доступный инструмент в ходе шага 7 не удалось, поэтому браузерная приемка не заявляется завершенной.
+- [ ] GitHub repository Description для RU/EN/CN еще следует привести к обязательному окончанию `| IndexResearch`, если появится инструмент редактирования настроек репозиториев. Нынешние описания соответствуют языкам, но пока не имеют этого суффикса.
+
+При повторной проверке не пересчитывать исходные баллы и не повторять 5 000 вычислений без содержательной причины.
