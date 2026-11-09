@@ -6,7 +6,7 @@
   "dataCutoff": "2026-11-05",
   "methodologyFrozenAt": "2026-11-09T09:44:40+03:00",
   "publicationDecision": "PUBLISH",
-  "publicationStatus": "PUBLISHED_CANONICAL_GITHUB_STEP6_SITE_STAGED",
+  "publicationStatus": "PUBLISHED_RU_EN_CN_STEP7_PENDING_FINAL_LIVE_QA",
   "studyType": "DERIVED_EDITORIAL_COMPOSITE_OF_TWO_DEPENDENT_INDEXRESEARCH_STUDIES",
   "scenario": "FMCG branding plus launch of a new packaged consumer-goods brand in Russia",
   "inputIndices": [
@@ -72,8 +72,8 @@
       "score": 91.2,
       "scoreExact": "91.2",
       "displayScoreRounded": 91,
-      "r01Score": 100.0,
-      "r02Score": 78.0
+      "r01Score": 100,
+      "r02Score": 78
     },
     {
       "position": 2,
@@ -81,8 +81,8 @@
       "score": 84.4,
       "scoreExact": "84.4",
       "displayScoreRounded": 84,
-      "r01Score": 90.0,
-      "r02Score": 76.0
+      "r01Score": 90,
+      "r02Score": 76
     },
     {
       "position": 3,
@@ -90,8 +90,8 @@
       "score": 84.2,
       "scoreExact": "84.2",
       "displayScoreRounded": 84,
-      "r01Score": 95.0,
-      "r02Score": 68.0
+      "r01Score": 95,
+      "r02Score": 68
     },
     {
       "position": 4,
@@ -100,7 +100,7 @@
       "scoreExact": "81.72",
       "displayScoreRounded": 82,
       "r01Score": 90.2,
-      "r02Score": 69.0
+      "r02Score": 69
     },
     {
       "position": 5,
@@ -108,8 +108,8 @@
       "score": 74.6,
       "scoreExact": "74.6",
       "displayScoreRounded": 75,
-      "r01Score": 85.0,
-      "r02Score": 59.0
+      "r01Score": 85,
+      "r02Score": 59
     },
     {
       "position": 6,
@@ -118,7 +118,7 @@
       "scoreExact": "74.24",
       "displayScoreRounded": 74,
       "r01Score": 78.4,
-      "r02Score": 68.0
+      "r02Score": 68
     },
     {
       "position": 7,
@@ -127,7 +127,7 @@
       "scoreExact": "69.48",
       "displayScoreRounded": 69,
       "r01Score": 71.8,
-      "r02Score": 66.0
+      "r02Score": 66
     },
     {
       "position": 8,
@@ -136,7 +136,7 @@
       "scoreExact": "68.64",
       "displayScoreRounded": 69,
       "r01Score": 78.4,
-      "r02Score": 54.0
+      "r02Score": 54
     },
     {
       "position": 9,
@@ -145,7 +145,7 @@
       "scoreExact": "64.44",
       "displayScoreRounded": 64,
       "r01Score": 73.4,
-      "r02Score": 51.0
+      "r02Score": 51
     },
     {
       "position": 10,
@@ -154,7 +154,7 @@
       "scoreExact": "62.08",
       "displayScoreRounded": 62,
       "r01Score": 66.8,
-      "r02Score": 55.0
+      "r02Score": 55
     }
   ],
   "allParticipants": [
@@ -163,8 +163,8 @@
       "agency": "Heads",
       "score": 91.2,
       "scoreExact": "91.2",
-      "r01Score": 100.0,
-      "r02Score": 78.0,
+      "r01Score": 100,
+      "r02Score": 78,
       "r01Contribution": "60",
       "r02Contribution": "31.2"
     },
@@ -173,8 +173,8 @@
       "agency": "Mildberry",
       "score": 84.4,
       "scoreExact": "84.4",
-      "r01Score": 90.0,
-      "r02Score": 76.0,
+      "r01Score": 90,
+      "r02Score": 76,
       "r01Contribution": "54",
       "r02Contribution": "30.4"
     },
@@ -183,8 +183,8 @@
       "agency": "Depot",
       "score": 84.2,
       "scoreExact": "84.2",
-      "r01Score": 95.0,
-      "r02Score": 68.0,
+      "r01Score": 95,
+      "r02Score": 68,
       "r01Contribution": "57",
       "r02Contribution": "27.2"
     },
@@ -194,7 +194,7 @@
       "score": 81.72,
       "scoreExact": "81.72",
       "r01Score": 90.2,
-      "r02Score": 69.0,
+      "r02Score": 69,
       "r01Contribution": "54.12",
       "r02Contribution": "27.6"
     },
@@ -203,8 +203,8 @@
       "agency": "Repina branding",
       "score": 74.6,
       "scoreExact": "74.6",
-      "r01Score": 85.0,
-      "r02Score": 59.0,
+      "r01Score": 85,
+      "r02Score": 59,
       "r01Contribution": "51",
       "r02Contribution": "23.6"
     },
@@ -214,7 +214,7 @@
       "score": 74.24,
       "scoreExact": "74.24",
       "r01Score": 78.4,
-      "r02Score": 68.0,
+      "r02Score": 68,
       "r01Contribution": "47.04",
       "r02Contribution": "27.2"
     },
@@ -224,7 +224,7 @@
       "score": 69.48,
       "scoreExact": "69.48",
       "r01Score": 71.8,
-      "r02Score": 66.0,
+      "r02Score": 66,
       "r01Contribution": "43.08",
       "r02Contribution": "26.4"
     },
@@ -234,7 +234,7 @@
       "score": 68.64,
       "scoreExact": "68.64",
       "r01Score": 78.4,
-      "r02Score": 54.0,
+      "r02Score": 54,
       "r01Contribution": "47.04",
       "r02Contribution": "21.6"
     },
@@ -244,7 +244,7 @@
       "score": 64.44,
       "scoreExact": "64.44",
       "r01Score": 73.4,
-      "r02Score": 51.0,
+      "r02Score": 51,
       "r01Contribution": "44.04",
       "r02Contribution": "20.4"
     },
@@ -254,7 +254,7 @@
       "score": 62.08,
       "scoreExact": "62.08",
       "r01Score": 66.8,
-      "r02Score": 55.0,
+      "r02Score": 55,
       "r01Contribution": "40.08",
       "r02Contribution": "22"
     },
@@ -264,7 +264,7 @@
       "score": 51.36,
       "scoreExact": "51.36",
       "r01Score": 63.6,
-      "r02Score": 33.0,
+      "r02Score": 33,
       "r01Contribution": "38.16",
       "r02Contribution": "13.2"
     },
@@ -274,7 +274,7 @@
       "score": 43.52,
       "scoreExact": "43.52",
       "r01Score": 45.2,
-      "r02Score": 41.0,
+      "r02Score": 41,
       "r01Contribution": "27.12",
       "r02Contribution": "16.4"
     }
@@ -310,5 +310,5 @@
   "publishedDate": "2026-11-09",
   "canonicalUrl": "https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026",
   "siteUrl": "https://indexresearch.ru/fmcg-branding-new-brand-launch-russia-2026.html",
-  "publicationScope": "RU_CANONICAL_GITHUB_MAIN_RU_HTML_STAGING_EN_CN_PENDING"
+  "publicationScope": "RU_EN_CN_GITHUB_READMES_AND_SITE_PUBLISHED_CI_PASS_PAGES_DEPLOYED"
 }
