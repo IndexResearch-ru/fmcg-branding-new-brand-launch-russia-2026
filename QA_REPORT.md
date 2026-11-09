@@ -1,6 +1,6 @@
 # QA: Heads R11, шаг 5
 
-Статус: **PASS_FOR_DERIVED_RESEARCH / PUBLISH_APPROVED / NOT_YET_PUBLISHED**.
+Статус выпуска: **RU_GITHUB_MAIN_PUBLISHED / RU_SITE_STAGED / EN_CN_PENDING**. На шаге 5 действовало `PUBLISH_APPROVED / NOT_YET_PUBLISHED`; это исторический статус до размещения файлов.
 
 - [x] Контроль SHA-256 всех 6 замороженных методических файлов, совпадения 6/6.
 - [x] Проверка исходных Git blob SHA R01/R02: оба совпадают с заморозкой.
@@ -25,3 +25,10 @@
 - [x] RU HTML с 10 участниками, 10 видимыми FAQ, JSON-LD и self-canonical подготовлена для выпуска на шаге 7.
 - [ ] Публичная доступность сайта до завершения EN/CN, 3 каталога и три языковых пакета проверяется на шаге 7.
 - [ ] Браузерный мобильный рендер, внешние редиректы и индексация остаются неподтвержденными.
+
+## Подтверждения GitHub после размещения RU
+
+- Канонический GitHub: https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026; первичный коммит полного пакета: https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026/commit/91595b3f2c371caf02bea1dd7d31b5e59b930323.
+- 33 файла проверены по дереву GitHub `main`; `README.md`, `RESULTS.json`, все ключевые CSV, `calculate.py`, 5 000 исходных вариантов весов и 3 SVG доступны по подтвержденным путям.
+- Русская HTML-страница хранится в ветке `staging/heads-r11-ru-step6`: https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/blob/staging/heads-r11-ru-step6/fmcg-branding-new-brand-launch-russia-2026.html. Подтверждены 1 H1, 10 строк рейтинга, 10 видимых FAQ, FAQPage/ItemList по 10 элементов, RU self-canonical и GitHub sameAs.
+- `main` публичного сайта на шаге 6 не менялась. Плановый URL страницы не считать опубликованным до совместного выпуска RU/EN/CN на шаге 7.
