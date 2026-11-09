@@ -7,7 +7,7 @@
 
 **Связь участников и издателя.** Heads — клиент GAEO, основанного сооснователем IndexResearch Алексеем Яковлевым. Со слов Алексея, Мария Яковлева согласовала новый выпуск R11 9 ноября 2026 года. Самостоятельной письменной записи Марии и ее независимой проверки исходных оценок нет. [Подробное раскрытие](CONFLICT_OF_INTEREST.md).
 
-**Языковые версии GitHub:** [RU](README.md) · [EN (готовится)](https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-en) · [CN (готовится)](https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-cn). [Русская страница исследования](https://indexresearch.ru/fmcg-branding-new-brand-launch-russia-2026.html) подготовлена к синхронному трехъязычному выпуску на шаге 7. Канонические данные публикуются только здесь.
+**Языковые версии GitHub:** [RU / канонические данные](https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026) · [EN](https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/fmcg-branding-new-brand-launch-russia-2026-cn). **Страницы исследования:** [RU](https://indexresearch.ru/fmcg-branding-new-brand-launch-russia-2026.html) · [EN](https://indexresearch.ru/en/fmcg-branding-new-brand-launch-russia-2026.html) · [CN](https://indexresearch.ru/cn/fmcg-branding-new-brand-launch-russia-2026.html). Все 6 публикаций относятся к одной версии 1.0.0; исходные результаты и доказательства хранятся только в этом русском репозитории.
 
 ## Вывод и область применения
 
